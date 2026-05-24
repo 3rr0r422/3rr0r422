@@ -3,8 +3,8 @@
 
 ```console
 guest@error422:~$ cat about.txt
-> Dev u. Netzwerk-Nerd.
-> Ein Dev/Netzwerk-Idiot der auch mal rausgeht.
+> Dev & Network Nerd.
+> A dev/network idiot who occasionally touches grass.
 ```
 
 ### 🛠️ root_interests
@@ -16,8 +16,8 @@ guest@error422:~$ cat about.txt
 guest@error422:~$ ls -la ./projects
 ```
 - 🤖 [**pinkipy_main.py**](https://discord.com/users/869184249507479572) - Management Discord Bot PinkiPy
-- 🖥️ [**start_homelab.sh**](https://error422.de) - Homelab aus alter Hardware
-- 🌐 [**home_site.html**](https://home.error422.de) - Server-Home Page wo all meine Tools sind
+- 🖥️ [**start_homelab.sh**](https://error422.de) - Homelab built from old hardware
+- 🌐 [**home_site.html**](https://home.error422.de) - Server homepage hosting all my tools
 
 ```console
 guest@error422:~$ ping -c 3 socials
