@@ -1,16 +1,30 @@
-## Hi there 👋
+# 💻 SYSTEM BOOT... OK.
+### 👤 LOGIN: ERROR422
 
-<!--
-**3rr0r422/3rr0r422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```console
+guest@error422:~$ cat about.txt
+> Dev u. Netzwerk-Nerd.
+> Ein Dev/Netzwerk-Idiot der auch mal rausgeht.
+```
 
-Here are some ideas to get you started:
+### 🛠️ root_interests
+* **OS_PREF:** Fedora / Bazzite
+* **LANGUAGES:** Python, C#, JS
+* **INFRA:** Docker, QEMU, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+guest@error422:~$ ls -la ./projects
+```
+- 🤖 [**pinkipy_main.py**](https://discord.com/users/869184249507479572) - Management Discord Bot PinkiPy
+- 🖥️ [**start_homelab.sh**](https://error422.de) - Homelab aus alter Hardware
+- 🌐 [**home_site.html**](https://home.error422.de) - Server-Home Page wo all meine Tools sind
+
+```console
+guest@error422:~$ ping -c 3 socials
+```
+- 🐙 [github.com/3rr0r422](https://github.com/3rr0r422)
+- 🎮 [steamcommunity.com/id/errorniklas](https://steamcommunity.com/id/errorniklas)
+- 💬 **Discord:** [error.422](https://discord.com/users/430429235098812427)
+
+---
+*EOF*
