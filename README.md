@@ -6,11 +6,13 @@ guest@error422:~$ cat about.txt
 > Dev & Network Nerd.
 > A dev/network idiot who occasionally touches grass.
 ```
-
-### 🛠️ root_interests
+```console
+guest@error422:~$ fastfetch --structure OS:Kernel:Shell:DE
+```
 * **OS_PREF:** Fedora / Bazzite
-* **LANGUAGES:** Python, C#, JS
-* **INFRA:** Docker, QEMU, Nginx
+* **Kernel:** Linux 6.x
+* **Shell:** fish
+* **DE:** KDE Plasma
 
 ```console
 guest@error422:~$ ls -la ./projects
@@ -27,4 +29,3 @@ guest@error422:~$ ping -c 3 socials
 - 💬 **Discord:** [error.422](https://discord.com/users/430429235098812427)
 
 ---
-*EOF*
