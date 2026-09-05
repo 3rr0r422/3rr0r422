@@ -9,9 +9,9 @@ guest@error422:~$ cat about.txt
 ```console
 guest@error422:~$ fastfetch --structure OS:Kernel:Shell:DE
 ```
-* **OS_PREF:** Fedora / Bazzite
+* **OS_PREF:** kubuntu / Bazzite
 * **Kernel:** Linux 6.x
-* **Shell:** fish
+* **Shell:** zsh
 * **DE:** KDE Plasma
 
 ```console
